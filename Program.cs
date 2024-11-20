@@ -12,6 +12,7 @@ namespace GitPracticeProject
         {
             Console.WriteLine("Hi");
             //commitone
+            //commit two
         }
     }
 }
