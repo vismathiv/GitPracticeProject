@@ -11,6 +11,8 @@ namespace GitPracticeProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hi");
+            //
+            int a = 1;
         }
     }
 }
