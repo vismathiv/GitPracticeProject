@@ -11,13 +11,7 @@ namespace GitPracticeProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hi");
-            //
-            Console.WriteLine("hole");
-            //
-            int a = 1;
-            int b = 2;
-
-            int p = 0;
+            //commitone
         }
     }
 }
