@@ -13,6 +13,8 @@ namespace GitPracticeProject
             Console.WriteLine("Hi");
             //
             Console.WriteLine("hole");
+
+            int p = 0;
         }
     }
 }
